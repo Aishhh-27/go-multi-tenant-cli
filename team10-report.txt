@@ -1,0 +1,3 @@
+Tenant: team10
+Namespace: team10
+URL: https://gitlab.com/Aishhhh/team10

@@ -1,0 +1,3 @@
+Tenant: tenant5
+Namespace: tenant5
+URL: http://example.com/tenant5

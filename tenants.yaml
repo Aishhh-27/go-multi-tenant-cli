@@ -1,0 +1,4 @@
+tenants:
+  - name: team10
+  - name: team11
+  - name: team12
